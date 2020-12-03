@@ -4,7 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-
+# Firebase
+/build
+firebasesrc
+firebase-debug
+#Api Keys
+.env
 # testing
 /coverage
 
